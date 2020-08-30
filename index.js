@@ -33,7 +33,7 @@ const dateFormat = require('dateformat');
 
 
 
-const prefix = ""
+const prefix = "&"
 const developers = ""
 
 ////////
@@ -230,7 +230,7 @@ const Sra7a = [
 	   .addField("✽-  **${prefix}اسرع  -->  『x يعطيك كلمه ولازم تكتبها بسرعه x』**",' ‎ ')
 	 	   .addField("✽-  **${prefix}صراحة    -->  『x يعطيك جمله تجاوب عليها بكل صراحه x』**",' ‎ ')
             
- .setFooter('||جميع الحقوق محفوضه لدى بترولي ©||')
+ .setFooter('||جميع الحقوق محفوضه لدى Be alone ©||')
 
 
    message.channel.send({embed});
@@ -240,4 +240,4 @@ const Sra7a = [
 });
 
 
-client.login("");
+client.login("NzQ5NzY2ODQ0ODA5ODcxNDMx.X0wwyQ.9gP6d0VRYJmH1prQefo8Vc2Hr90");
